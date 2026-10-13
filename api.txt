@@ -1,0 +1,1 @@
+https://api-bot-teoo.onrender.com/like?uid={uid}&region={region}&key=Anurag
